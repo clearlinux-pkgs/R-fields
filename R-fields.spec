@@ -4,7 +4,7 @@
 #
 Name     : R-fields
 Version  : 9.8.3
-Release  : 22
+Release  : 23
 URL      : https://cran.r-project.org/src/contrib/fields_9.8-3.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/fields_9.8-3.tar.gz
 Summary  : Tools for Spatial Data
