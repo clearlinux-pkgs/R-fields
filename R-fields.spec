@@ -4,7 +4,7 @@
 #
 Name     : R-fields
 Version  : 13.3
-Release  : 49
+Release  : 50
 URL      : https://cran.r-project.org/src/contrib/fields_13.3.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/fields_13.3.tar.gz
 Summary  : Tools for Spatial Data
