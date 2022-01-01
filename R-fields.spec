@@ -4,7 +4,7 @@
 #
 Name     : R-fields
 Version  : 13.3
-Release  : 52
+Release  : 53
 URL      : https://cran.r-project.org/src/contrib/fields_13.3.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/fields_13.3.tar.gz
 Summary  : Tools for Spatial Data
@@ -57,10 +57,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1635642754
+export SOURCE_DATE_EPOCH=1641015296
 
 %install
-export SOURCE_DATE_EPOCH=1635642754
+export SOURCE_DATE_EPOCH=1641015296
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
