@@ -5,7 +5,7 @@
 #
 Name     : R-fields
 Version  : 15.2
-Release  : 65
+Release  : 66
 URL      : https://cran.r-project.org/src/contrib/fields_15.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/fields_15.2.tar.gz
 Summary  : Tools for Spatial Data
